@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: huu!
 🧑‍🔬 I’m currently working on strengthening my Java programming and building practical web projects.  <br>🧑‍🤝‍🧑 I’m looking to collaborate on software development projects that combine backend logic with modern UI design.  <br>🤝 I’m looking for help with exploring Spring framework and Java-based APIs.  <br>🌱 I’m currently learning advanced data structures, algorithms, and React.js for scalable applications.  <br>🗨️ Ask me about debugging Java code, creating responsive web layouts, or managing Git workflows.  <br>⚡ Fun fact: I love sci-fi novels and chess—they sharpen my imagination and strategy skills!
 
 
